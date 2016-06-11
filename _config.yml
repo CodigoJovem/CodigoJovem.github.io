@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://CodigoJovem.github.io
+title: CodigoJovem
+tagline: Programação, Vestibular e Nerdices Em Geral
+description: Um Projeto Aberto, e sempre disponível para conversar sobre conteúdo.
+paginate: 7
